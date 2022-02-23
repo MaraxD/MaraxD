@@ -4,8 +4,9 @@
  <br/>
 
 <!--START_SECTION:waka-->
-<!--
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=MaraxD"/>-->
+```text
+
+```
 <!--END_SECTION:waka-->
 
 
