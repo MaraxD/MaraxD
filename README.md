@@ -5,8 +5,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-C#           50 mins         ███████████████████▓░░░░░   79.13 % 
-Other        12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+Java         1 hr 8 mins     ████████████░░░░░░░░░░░░░   47.38 % 
+C#           50 mins         ████████▓░░░░░░░░░░░░░░░░   34.60 % 
+Other        12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+JavaScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+CSS          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 <!--END_SECTION:waka-->
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaraxD)](https://github.com/anuraghazra/github-readme-stats)-->
