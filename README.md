@@ -6,7 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   23 mins         ███████████████████▓░░░░░   79.10 %
+C#           5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 ```
 
 <!--END_SECTION:waka-->
