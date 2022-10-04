@@ -6,7 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Git Config   8 mins          ████████████▒░░░░░░░░░░░░   48.71 %
+Text         4 mins          ███████░░░░░░░░░░░░░░░░░░   27.58 %
+HTML         3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
