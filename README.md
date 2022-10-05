@@ -1,9 +1,8 @@
 
 
  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaraxD&theme=github_dark&show_icons=true&count_private=true"/>-->
- <div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaraxD&theme=tokyonight_duo)](https://git.io/streak-stats)
- </div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaraxD&theme=tokyonight_duo&align=center)](https://git.io/streak-stats)
+ 
  
  <br/>
 
