@@ -1,6 +1,7 @@
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaraxD&theme=github_dark&show_icons=true&count_private=true"/>
+ <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaraxD&theme=github_dark&show_icons=true&count_private=true"/>-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaraxD)](https://git.io/streak-stats)
  
  <br/>
 
