@@ -1,6 +1,6 @@
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MaraxD)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MaraxD&theme=tokyonight)](https://git.io/streak-stats)
  
  
  <br/>
