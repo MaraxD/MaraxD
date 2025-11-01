@@ -4,16 +4,11 @@
  
  
  <br/>
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,processing,arduino)](https://skillicons.dev)
 
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaraxD)](https://github.com/anuraghazra/github-readme-stats)-->
-
+ 
+<br/>
 🌱 I’m currently learning creative coding<br/>
 📫 How to reach me: on Linkedin https://www.linkedin.com/in/mara-olaru-508590203/ or by my personal email maraolaru30@gmail.com <br/>
 ⚡ Fun fact: i recently learned how to crochet and it's the only thing i've been doing besides sitting in front of my laptop all day <br/>
